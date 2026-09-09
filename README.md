@@ -35,3 +35,7 @@ The data pipeline follows the **Medallion Architecture** pattern:
 * **Data Reliability:** Schema enforcement and data quality checks within the Silver layer.
 * **Optimized Queries:** Pre-aggregated metrics in the Gold layer ready for fast Snowflake reporting.
 
+
+##Test Streaming Process
+![Test Streaming and Filtering data](docs/test.gif)
+
