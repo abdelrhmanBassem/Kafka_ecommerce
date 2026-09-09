@@ -44,7 +44,7 @@ The data pipeline follows the **Medallion Architecture** pattern:
 ---
 ## Test Loading Data in SnowFlake
 ![TestLoading Data in SnowFlake](docs/Test_SnowFlake.gif)
-* **This show** :
+ **This show** :
 * Data is streaming and increasing over time
 * Data is Loaded successfully in DataBase Table
-* 
+  
