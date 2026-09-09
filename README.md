@@ -54,4 +54,4 @@ The data pipeline follows the **Medallion Architecture** pattern:
 ![VIEW2 Subset](docs/VIEW2.png)
 ---
 ## Static Dashboard
-![Static Dashboard](staticstic_dashboard.png)
+![Static Dashboard](docs/staticstic_dashboard.png)
