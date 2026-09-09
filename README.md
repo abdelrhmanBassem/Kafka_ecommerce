@@ -47,4 +47,8 @@ The data pipeline follows the **Medallion Architecture** pattern:
 * **This show** :
 * Data is streaming and increasing over time
 * Data is Loaded successfully in DataBase Table
-  
+## VIEW1 Subset
+![VIEW1 Subset](docs/VIEW1.png)
+---
+## VIEW2 Subset
+![VIEW2 Subset](docs/VIEW2.png)
