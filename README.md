@@ -38,6 +38,6 @@ The data pipeline follows the **Medallion Architecture** pattern:
 ---
 ## Test Streaming Process
 ![Test Streaming and Filtering data](docs/test.gif)
-* **this show that :
+* this show that :
 * process of streaming data is continuing over time
 * process of filter data which contain missing values is continuing over time
