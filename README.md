@@ -41,3 +41,10 @@ The data pipeline follows the **Medallion Architecture** pattern:
 * this show that :
 * process of streaming data is continuing over time
 * process of filter data which contain missing values is continuing over time
+---
+## Test Loading Data in SnowFlake
+![TestLoading Data in SnowFlake](docs/Test_SnowFlake.gif)
+* **This show** :
+* Data is streaming and increasing over time
+* Data is Loaded successfully in DataBase Table
+* 
